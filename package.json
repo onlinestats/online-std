@@ -1,0 +1,24 @@
+{
+  "name": "online-std",
+  "version": "1.0.0",
+  "description": "Online standard deviation (piece-by-piece)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlinestats/online-std.git"
+  },
+  "author": "Anton Zemlyansky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlinestats/online-std/issues"
+  },
+  "homepage": "https://github.com/onlinestats/online-std#readme",
+  "dependencies": {
+    "faucet": "0.0.1",
+    "online-variance": "^1.0.0",
+    "tape": "^4.9.1"
+  }
+}
