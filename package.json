@@ -1,6 +1,6 @@
 {
   "name": "online-std",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Online standard deviation (piece-by-piece)",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/onlinestats/online-std#readme",
   "dependencies": {
+    "online-variance": "^1.0.0"
+  },
+  "devDependencies": {
     "faucet": "0.0.1",
-    "online-variance": "^1.0.0",
     "tape": "^4.9.1"
   }
 }
