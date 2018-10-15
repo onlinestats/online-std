@@ -1,6 +1,6 @@
 {
   "name": "online-std",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Online standard deviation (piece-by-piece)",
   "main": "index.js",
   "scripts": {

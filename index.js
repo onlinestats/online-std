@@ -11,7 +11,6 @@ module.exports = function (params) {
       n = seriesObject.n
     } else {
       value = Math.sqrt(v(x))
-      console.log(v.n)
       n = v.n
     }
     return value
