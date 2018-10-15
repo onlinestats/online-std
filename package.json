@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/onlinestats/online-std#readme",
   "dependencies": {
-    "online-variance": "^1.0.0"
+    "online-variance": "^1.0.1"
   },
   "devDependencies": {
     "faucet": "0.0.1",
